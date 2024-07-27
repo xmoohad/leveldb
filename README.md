@@ -52,7 +52,7 @@ dotnet epicchain-cli.dll
 Clone the LevelDB repository:
 
 ```sh
-git clone --recurse-submodules https://github.com/google/leveldb.git
+git clone --recurse-submodules https://github.com/xmoohad/leveldb.git
 ```
 
 #### Building on POSIX Systems
