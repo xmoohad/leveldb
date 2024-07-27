@@ -6,7 +6,6 @@
 
 ![CI Badge](https://github.com/google/leveldb/actions/workflows/build.yml/badge.svg)
 
-**Authors:** Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 
 ## Overview
 
